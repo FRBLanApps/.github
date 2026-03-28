@@ -1,6 +1,6 @@
 # FRBLanApps
 
-[English](./README.en.md)
+[English](README.en.md)
 
 **打造实用应用。**  
 专注 Flutter、Root 模块与开源实践。
